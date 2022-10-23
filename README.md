@@ -35,7 +35,6 @@ and accelerating adoption of IoT for good.
     src="https://img.shields.io/badge/rancher%20-%230db7ed.svg?&style=for-the-badge&logo=rancher&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/VAULT-%235835CC.svg?style=for-the-badge&logo=Vault&logoColor=white" />&nbsp;<img
-    src="https://img.shields.io/badge/VAULT-%235835CC.svg?style=for-the-badge&logo=Vault&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/Packer-%235835CC.svg?style=for-the-badge&logo=packer&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/consul-%235835CC.svg?style=for-the-badge&logo=consul&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/javascript-%234285F4.svg?style=for-the-badge&logo=javascript&logoColor=ffdd54" />&nbsp;<img
