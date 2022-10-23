@@ -20,9 +20,10 @@ and accelerating adoption of IoT for good.
 
 #### How to Reach Me?
 
-[![Twitter](https://img.shields.io/badge/-TWITTER-7700B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aslantechiot)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommyblack1984/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aslantechiot)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommyajblack/)
 [![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://aslantechnology.com.au)
+
 
 #### Tech Stack
 
@@ -35,7 +36,12 @@ and accelerating adoption of IoT for good.
     src="https://img.shields.io/badge/rancher%20-%230db7ed.svg?&style=for-the-badge&logo=rancher&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/VAULT-%235835CC.svg?style=for-the-badge&logo=Vault&logoColor=white" />&nbsp;<img
-    src="https://img.shields.io/badge/Packer-%235835CC.svg?style=for-the-badge&logo=packer&logoColor=white" />&nbsp;<img
-    src="https://img.shields.io/badge/consul-%235835CC.svg?style=for-the-badge&logo=consul&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/javascript-%234285F4.svg?style=for-the-badge&logo=javascript&logoColor=ffdd54" />&nbsp;<img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+
+#### Share the love
+
+<a href="https://www.buymeacoffee.com/ASLANTechnology"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ASLANTechnology&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Daslantechnology%26type%3Dpatrons&style=flat)](https://patreon.com/aslantechnology)
