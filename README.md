@@ -9,7 +9,7 @@
 
 * I'm a <strong>Principal DevSecOps Consultant</strong> with experience building security functions at Fortune500,
 pre-IPO companies, and exponential growth start-ups. Currently, I own efforts to secure multiple clients environments at
-<a href='https://ASLANTechnology.com.au//' target='_blank'><strong>ASLAN Technology Services</strong></a> providing
+<a href='https://ASLANTechnology.com.au/' target='_blank'><strong>ASLAN Technology Services</strong></a> providing
 cloud agnostic secure automation pipelines.
 * I also run <a href='https://DevOps.red/' target='_blank'><strong>DevOpsRed</strong></a>, a Bug Bounty hunting and
 Cloud penetration testing collective registered and utilised for collaborative and commercial vulnerability disclosure
