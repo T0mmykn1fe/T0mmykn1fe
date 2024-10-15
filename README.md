@@ -1,6 +1,6 @@
-* I'm a <strong>Principal DevSecOps Consultant</strong> working to secure multiple software development lifecycle's.
-* I also run <a href='https://DevOps.red/' target='_blank'><strong>DevOpsRed</strong></a>, a Bug Bounty hunting and
-Cloud penetration testing collective registered and utilised for collaborative and commercial vulnerability disclosure
+* I'm a <strong>Cyber Security and DevSecOps leader </strong> working to secure multiple software development lifecycles and improve the cyber security landscape for various entities.
+* I also run <a href='https://DevOps.red/' target='_blank'><strong>DevOpsRed</strong></a>, a DevSecOps consultancy focusing on Bug Bounty hunting and
+Cloud penetration testing. Its a collective registered and utilised for collaborative and commercial vulnerability disclosure
 programs creating excellence through obfuscation.
 * I’m also a member of <a href='https://iot.org.au/' target='_blank'><strong> IoT Alliance Australia</strong></a>, a team
 committed to championing IoT solutions, improving Australia’s competitive advantage, and benefiting society by championing
