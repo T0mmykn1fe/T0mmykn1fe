@@ -1,15 +1,11 @@
-* I'm a <strong>Cyber Security and DevSecOps leader </strong> working to secure multiple software development lifecycles and improve the cyber security landscape for various entities.
-* I also run <a href='https://DevOps.red/' target='_blank'><strong>DevOpsRed</strong></a>, a DevSecOps consultancy focusing on Bug Bounty hunting and
-Cloud penetration testing. Its a collective registered and utilised for collaborative and commercial vulnerability disclosure
-programs creating excellence through obfuscation.
-* I’m also a member of <a href='https://iot.org.au/' target='_blank'><strong> IoT Alliance Australia</strong></a>, a team
-committed to championing IoT solutions, improving Australia’s competitive advantage, and benefiting society by championing
-and accelerating the adoption of IoT for good.
+* I'm Tommy, a <strong>Cyber Security and DevSecOps leader</strong> working to secure multiple software development lifecycles and improve the cyber security landscape for various entities.
+* I run <a href='https://ASLANTechnology.org/' target='_blank'><strong>ASLAN Technology Services</strong></a>, an international DevSecOps, Cyber and Emerging Technologies consultancy based in Sydney, London and Dublin.
+* I also run <a href='https://DevOps.red/' target='_blank'><strong>DevOpsRed</strong></a>, an educational not-for-profit consultancy focusing on bug bounty hunting and cloud penetration testing. It is a collective registered and utilised for collaborative and commercial vulnerability disclosure programmes, creating excellence through obfuscation.
+* I’m also a member of <a href='https://iot.org.au/' target='_blank'><strong>IoT Alliance Australia</strong></a>, a team committed to championing IoT solutions, improving Australia’s competitive advantage, and benefiting society by championing and accelerating the adoption of IoT for good.
 
 #### How to Reach Me?
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommyajblack/)
-
 
 #### Tech Stack
 
@@ -22,7 +18,6 @@ and accelerating the adoption of IoT for good.
     src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/VAULT-%235835CC.svg?style=for-the-badge&logo=Vault&logoColor=white" />&nbsp;<img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
 
 #### Share the love
 
